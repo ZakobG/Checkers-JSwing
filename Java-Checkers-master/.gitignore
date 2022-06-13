@@ -1,0 +1,8 @@
+*.db
+*.svn-base
+.project
+*.prefs
+*.class
+*.classpath
+.svn/entries
+.svn/format
